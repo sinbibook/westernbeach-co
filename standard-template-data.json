@@ -1,0 +1,2598 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-11-24T03:01:13.192693645Z",
+    "templateType": "trip_c2",
+    "propertyId": "a3c60c2f-bae2-4105-a8cc-8ab5a2c38696",
+    "homepageId": "01a20b61-8e5f-79bb-8223-be28d6eff52d"
+  },
+  "property": {
+    "id": "a3c60c2f-bae2-4105-a8cc-8ab5a2c38696",
+    "name": "강화 웨스턴비치 펜션",
+    "nameEn": "Ganghwa Western Beach Pension",
+    "description": "아름다운 동막해수욕장에 낙조를 감상할 수 있는 강화 웨스턴비치 펜션입니다. 사랑하는 가족,커플과 함께 즐거운 시간 보내세요",
+    "subtitle": "",
+    "address": "인천 강화군 화도면 해안남로1691번길 46-24 강화 웨스턴비치 펜션",
+    "latitude": 37.5935737182118,
+    "longitude": 126.433473702689,
+    "contactPhone": [
+      "010-5131-3466"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 00시 00분\n- 저녁 12시 이후 입실 시 반드시 펜션으로 사전 연락 부탁드립니다.",
+    "usageGuide": "[공지사항]\n- KBS 사랑의가족 23.12.30 3001회 장소 출연\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 00시 00분\n- 저녁 12시 이후 입실 시 반드시 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 선결제\n\n[공용바베큐]\n- 이용 장소: 실내공용바베큐\n- 이용 시간: ~00:00\n- 신청 시간: ~10:00\n- 이용 요금: 2인(그릴 ) 2만원 , 3~4인(그릴 ) 3만원 (인원초과시 인당 5천원) (1박기준/현장결제)\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[개별바베큐]\n- 이용 장소: 야외 개별바베큐\n- 이용 시간: ~00:00\n- 신청 시간: ~10:00\n- 이용 요금: 2인(그릴 ) 2만원 , 3~4인(그릴 ) 3만원 (인원초과시 인당 5천원) (1박기준/현장결제)\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[바베큐 공지사항]\n※ 공용바베큐장 내 난로 구비되어 사계절 바베큐 이용 가능\n※ 실내공용바베큐 , 야외개별바베큐\n※ 숯 , 그릴 ,버너 등 개인 바베큐 도구 지참 불가\n\n[부대시설]\n[낚시/갯벌체험]\n- 펜션 바로 앞에서 가능\n※ 용품 개인 지참\n\n[운동시설]\n[족구장]\n- 이용장소 : 펜션에서 3분 거리\n- 이용 시간 : 입실 ~ 일몰 \n- 이요 요금 : 무료\n※ 조명 시설 없어 야간 사용 어렵습니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n[주변관광지]\n- 동막해변 차량 3분\n- 마니산 차량 10분\n- 전등사 차량 15분\n- 강화 리조트(루지) 차량 20분\n- 옥토끼우주센터 차량 20분\n\n[교통편]\n[승용차 이용 시]\n- 네비에 아래 주소를 검색하시면 됩니다.\n- 지번주소 : 인천 강화군 화도면 동막리 439-4\n- 도로명 주소 : 인천 강화군 화도면 해안남로1691번길 46-24\n\n[대중교통 이용 시]\n- 화도 공용버스터미널  화도 터미널 일반버스 41번/40번/44번 승차  지랏돌 하차  도보 약 3분 \n- 이동  일반 버스 4번 탑승  29개 정류장 이동  도보 450m 이동(약 7분)  강화 웨스턴비치 펜션 도착",
+    "reservationGuide": "- KBS 사랑의가족 23.12.30 3001회 장소 출연",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "westernbeach.co.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/38460364",
+    "ybsId": "63531",
+    "tripPropertyId": "2095",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
+    "amenities": [
+      "주차장"
+    ],
+    "nearbyAttractions": [
+      "낚시"
+    ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "비치",
+      "businessNumber": "303-22-18605",
+      "representativeName": "안광춘",
+      "businessAddress": "인천광역시 강화군 화도면 해안남로 1591번길 46-24",
+      "businessPhone": "",
+      "businessEmail": "",
+      "businessType": "corporate",
+      "businessCategory": "숙박",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "f5f2210a-50d6-4446-aa0b-4b5badae555e",
+        "name": "개별바베큐",
+        "description": "",
+        "usageGuide": "- 이용 장소: 야외 개별바베큐\n- 이용 시간: ~00:00\n- 신청 시간: ~10:00\n- 이용 요금: 2인(그릴 ) 2만원 , 3~4인(그릴 ) 3만원 (인원초과시 인당 5천원) (1박기준/현장결제)\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[바베큐 공지사항]\n※ 공용바베큐장 내 난로 구비되어 사계절 바베큐 이용 가능\n※ 실내공용바베큐 , 야외개별바베큐\n※ 숯 , 그릴 ,버너 등 개인 바베큐 도구 지참 불가",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a20b72-c313-78cb-adb9-eb343c323d32",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f5f2210a-50d6-4446-aa0b-4b5badae555e/main/1795488398852-u7kblsmi4s.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b72-c301-7101-93fc-cf30f5ea468c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f5f2210a-50d6-4446-aa0b-4b5badae555e/main/1795488398846-eha2dq4w6a.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b72-c399-7921-bd9e-3d7f1acab798",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f5f2210a-50d6-4446-aa0b-4b5badae555e/main/1795488398852-o8r7cm51m7.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "7cf0f329-08c3-461a-beb6-621ace81ea0b",
+        "name": "공용바베큐",
+        "description": "",
+        "usageGuide": "- 이용 장소: 실내공용바베큐\n- 이용 시간: ~00:00\n- 신청 시간: ~10:00\n- 이용 요금: 2인(그릴 ) 2만원 , 3~4인(그릴 ) 3만원 (인원초과시 인당 5천원) (1박기준/현장결제)\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a20b72-bd50-7ec1-979c-bd10f4012bb4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cf0f329-08c3-461a-beb6-621ace81ea0b/main/1795488398250-tcc1d4o22l.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b72-bdb1-762e-becd-9a3fa5aa3058",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cf0f329-08c3-461a-beb6-621ace81ea0b/main/1795488398254-bgvjxuemtj.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b72-bd30-7fde-a84a-79ad81fc21a1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7cf0f329-08c3-461a-beb6-621ace81ea0b/main/1795488398253-slz4t33q8h.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a20b61-80c5-7fa5-8af2-ba2d058d48cb",
+        "name": "족구장",
+        "description": "펜션에서 약 3분거리에 족구장이 있습니다.\n\n족구공 무료 대여해드리니,\n상쾌한 바닷바람 맞으며\n즐거운 족구 한 판 즐겨보세요!",
+        "usageGuide": "",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a20b61-885e-7824-82c1-457bdfe52391",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a20b61-80c5-7fa5-8af2-ba2d058d48cb/main/1795487270556-xefp1ohy6i.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b61-883b-7739-8159-4961f2648e8e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a20b61-80c5-7fa5-8af2-ba2d058d48cb/main/1795487270571-zw2r1atywz.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b61-884d-7917-9de6-90f839054c43",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a20b61-80c5-7fa5-8af2-ba2d058d48cb/main/1795487270587-vf6nbsrbei.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a20b61-80c6-7197-983f-2b6e88c35fa6",
+        "name": "낙조풍경",
+        "description": "웨스턴 비치에선 바다 위로 지는\n붉은 태양의 아름다운 장관을\n감상하실 수 있습니다.",
+        "usageGuide": "",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a20b61-8851-7cb8-97a1-807108563539",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a20b61-80c6-7197-983f-2b6e88c35fa6/main/1795487270652-eh0262lfo3.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b61-88f0-7445-a272-9329fef58576",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a20b61-80c6-7197-983f-2b6e88c35fa6/main/1795487270646-nx9n9parlj.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b61-8898-7955-957c-83f0033d35d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a20b61-80c6-7197-983f-2b6e88c35fa6/main/1795487270765-gloem4y5oe.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "90662a2d-d901-4405-912f-1a7e562e05a1",
+        "name": "편의 및 주변 시설",
+        "description": "펜션에서 차량 15분 거리에\n함허동천 계곡이 위치하고 있습니다.\n\n무더운 여름 시원한 물놀이를 즐겨보세요.",
+        "usageGuide": "- 와이파이 보유\n\n[주변관광지]\n- 동막해변 차량 3분\n- 마니산 차량 10분\n- 전등사 차량 15분\n- 강화 리조트(루지) 차량 20분\n- 옥토끼우주센터 차량 20분",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "01a20b61-869c-779d-8461-fead4b74d40c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/90662a2d-d901-4405-912f-1a7e562e05a1/main/1795487269746-x74pnjkjne.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b61-8737-7a98-b750-65439f244826",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/90662a2d-d901-4405-912f-1a7e562e05a1/main/1795487269846-ukw4r24xff.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a20b61-8697-745a-b490-282127d7fdc2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/90662a2d-d901-4405-912f-1a7e562e05a1/main/1795487269846-1u8qnj0fb9.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "d45a07f9-c435-414a-9e5d-066484cd6212",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/lFWXxSNdGgb4.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "cbdd12bc-af51-4707-a543-fea8e9c58416",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/MbV8l21mB6Pj.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5446ba17-cb46-4dde-975a-fca31ea4db1d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/acBgol6v8J0f.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "54d536d3-8a25-4091-b2df-281bdbf8bcda",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/ogm5bCaDABcq.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e886e2af-bc33-4b0c-978c-d6aaeeb87af5",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/Ao6vSxgm3fQr.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "81c1c25b-f79d-4ef2-a80f-423ee7988a4a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/ogPBaN2h5Tz8.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c2c58e5b-e07e-47e3-bd22-622bf30c9b98",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/O1cnABq3HaCp.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9477be59-ddef-4a2c-a12c-91cbffe42eb4",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/QmRdoM2t0Xs9.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b2174a18-d66f-4761-9f82-3d0ebcdc9ecb",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/RjwLA3GH4NXW.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+      "name": "해돋이(오션뷰)",
+      "description": "분리형+복층형, 거실1+침대룸(더블침대1)+온돌룸(침구세트2)+주방1+화장실1\r\n바다전망, 25.00평\r\nTV,냉장고,드라이기,린스,바디워시,샴푸,에어컨,전기밥솥,전자레인지,취사시설/도구,커피포트,타월,테라스,욕실용품",
+      "roomInfo": "",
+      "usageGuide": "복층형: 2층(침대1) 1층(온돌룸1 거실 주방 화장실1 테라스)\r\n※ 기준인원 외 추가비용은 현장결제 부탁드립니다.\r\n※최대인원을 초과한 입실이 불가합니다..\r\n\r\n[인원추가(1박기준/현장결제)]\r\n성인/아동(24개월 이상): 1인 20,000원\r\n유아 (24개월 미만): 무료 / 기준인원 포함",
+      "group": null,
+      "size": 82.64,
+      "baseOccupancy": 4,
+      "maxOccupancy": 8,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "바닥침구"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 2
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "수건",
+        "에어컨",
+        "TV",
+        "취사시설/도구",
+        "전기밥솥",
+        "냉장고",
+        "전자레인지",
+        "전기포트",
+        "테라스",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "욕실용품"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "복층",
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "00:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "01a18b50-9d7b-75a5-a7d1-484c3db430b9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/dfSTmb5nrG6g.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "01a18b50-9d7b-7730-a731-849347455bba",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/UhPu36RdGqQl.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-9d7b-77d3-9a7d-b014ea53acbd",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/lBLcA3GKVR0n.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-9d7b-7834-98cc-9580aa7f1b3b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/rfRlhZnPmO7S.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-9d7b-78f2-a9ec-5968c9eab02b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/i0Ml5bZnmXYc.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-9d7b-7927-a23a-5db2556a5e97",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/iorOK8zc9N1x.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-9d7b-7962-8e1e-f23e8b414e7b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/MevnxlujfF7K.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-9d7b-7994-8885-f92546c330ee",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/K3gT7BRcHVPd.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-9d7b-79c1-96cb-307f4f3499df",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/uaYNASOQnJDF.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    },
+    {
+      "id": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+      "name": "노을(오션뷰)",
+      "description": "복층형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 13.00평\r\nTV,냉장고,드라이기,린스,바디워시,샴푸,에어컨,전기밥솥,전자레인지,취사시설/도구,커피포트,타월,테라스,욕실용품",
+      "roomInfo": "",
+      "usageGuide": "복층형: 2층(침대1) 1층(거실 주방 화장실1 테라스)\r\n※ 기준인원 외 추가비용은 현장결제 부탁드립니다.\r\n※최대인원을 초과한 입실이 불가합니다.\r\n\r\n[인원추가(1박기준/현장결제)]\r\n성인/아동(24개월 이상): 1인 20,000원\r\n유아 (24개월 미만): 무료 / 기준인원 포함",
+      "group": null,
+      "size": 42.98,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "수건",
+        "에어컨",
+        "TV",
+        "취사시설/도구",
+        "전기밥솥",
+        "냉장고",
+        "전자레인지",
+        "전기포트",
+        "테라스",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "욕실용품"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "복층"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "00:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "01a18b50-bba4-7924-b073-b84e4f3448bb",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/n8Bsg1bENeMQ.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "01a18b50-bba4-7d45-b91e-ddf54543a2e6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/ej0sNxq6M3WH.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-bba5-72a5-9157-c420ecc8c1ad",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/ZPxj1MygSUnH.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-bba5-738e-b127-ea17b692084d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/M5iblLDZjNT4.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-bba5-7988-b2be-2f22839a7f23",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/3ZztB4sa9N1O.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-bba5-79cb-ae9b-7a3ee893266b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/iT5b9ElwrHXM.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b50-bba5-7d79-899d-9fc4f18f0aa5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/tN7KL4rklBIo.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 2
+    },
+    {
+      "id": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+      "name": "바다",
+      "description": "분리형, 거실1+온돌룸(침구세트8)+주방1+화장실2\r\n38.00평\r\nTV,냉장고,드라이기,린스,바디워시,샴푸,에어컨,전기밥솥,전자레인지,취사시설/도구,커피포트,타월,테라스,욕실용품",
+      "roomInfo": "",
+      "usageGuide": "객실분리형: 온돌1 거실 주방 화장실2\r\n※ 기준인원 외 추가비용은 현장결제 부탁드립니다.\r\n※최대인원을 초과한 입실이 불가합니다.\r\n\r\n[인원추가(1박기준/현장결제)]\r\n성인/아동(24개월 이상): 1인 20,000원\r\n유아 (24개월 미만): 무료 / 기준인원 포함",
+      "group": null,
+      "size": 125.62,
+      "baseOccupancy": 4,
+      "maxOccupancy": 15,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 2,
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "바닥침구"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 8
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "수건",
+        "에어컨",
+        "TV",
+        "취사시설/도구",
+        "전기밥솥",
+        "냉장고",
+        "전자레인지",
+        "전기포트",
+        "테라스",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "00:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "01a18b51-832c-7144-be26-5aba13c1c9d0",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/lTJ4o8tEPwWV.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "01a18b51-832c-7174-bb6a-8e18d614f143",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/8ptHyNZcnajK.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b51-832c-719b-a33b-c47b5bb3d81c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/xmdfY1HuIFbZ.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b51-832c-71ca-ae88-cefdaea89044",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/7fSI9xo35Bqi.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b51-832c-71de-843b-169224a401ec",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/0r4a8z2hleJI.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a18b51-832c-71f4-8bd2-0954e69b44a4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/DEzk7Lup46fl.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 3
+    }
+  ],
+  "homepage": {
+    "id": "01a20b61-8e5f-79bb-8223-be28d6eff52d",
+    "domain": "westernbeach.co.kr",
+    "templateType": "trip_c2",
+    "images": [
+      {
+        "logo": [
+          {
+            "id": "01a20b61-bcda-7a51-8957-0501329f8e29",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/logo/1795487272848-zggrdjecg2.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "title": "강화 웨스턴비치 펜션",
+      "description": "아름다운 동막해수욕장에 낙조를 감상할 수 있는 강화 웨스턴비치 펜션입니다. 사랑하는 가족,커플과 함께 즐거운 시간 보내세요",
+      "keywords": "강화펜션,강화오션뷰펜션,강화바베큐펜션,강화도펜션,강화도오션뷰펜션,강화도바베큐펜션,인천펜션,인천오션뷰펜션,인천바베큐펜션",
+      "naverSiteVerification": "141b03e15d6061a6acc6d08061c19cefd8ddad63",
+      "googleSiteVerification": "CcjTxy7dsqdx2A00TiL_XNVGnVmkw19muZwLj-gQRb8"
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "Western Beach",
+                "images": [
+                  {
+                    "id": "01a20b78-01e0-701f-ba5f-de88e218dc1e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743188-lt07g90cby.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01db-7aa6-b41b-9774711d3a9c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743187-xdbvub84rp.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-0069-78d7-a0eb-faa324db264f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743186-ewts6k4tkc.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-0037-785e-a1a6-7fceb703de8d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743186-43q4ztjcy9.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01be-776e-b4da-1e3b8aac5e69",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743188-k2l6et1xu7.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-00c9-7f0b-88c8-893328bc21f5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743191-f119qaubbj.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01d5-7db7-829f-9d36e1b66433",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743193-fvgirmc02q.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01c2-71d3-9bbf-c4e39bd8a157",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743192-ydvvhgufxs.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-0149-7aa3-b8ea-cb33b73cbcb8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_hero/1795488743190-6l19y0s5tg.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "푸른 바다와 눈부신 낙조가 함께하는 프리미엄 웰빙 펜션, 강화 웨스턴비치 펜션"
+              },
+              "closing": {
+                "title": "Special Place To Rest",
+                "images": [
+                  {
+                    "id": "01a20b61-bd86-7404-abc3-dd2eda3c89f5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_closing/1795487275271-homqn7a3xc.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": "특별함이 있는 프리미엄 웰빙 펜션, 강화 웨스턴비치 펜션입니다."
+              },
+              "essence": {
+                "title": "Room's Preview",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a20b61-bd56-795e-8a0d-c8f2edd37419",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_gallery/1795487274557-irnzp4c1ra.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01ce-7765-a41c-77602b25316e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_gallery/1795488743194-i59f6nxtlc.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01cb-77f9-a6f1-63869bd7ff4f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_gallery/1795488743190-6ohn0xli4c.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01c0-7b72-8255-f14fe4ea7d01",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_gallery/1795488743195-wf0levjyi0.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01c1-7365-b393-6784468d2da3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_gallery/1795488743194-p5r10npmw4.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01bb-74ad-9f9a-43e079e5be34",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_gallery/1795488743189-0ksh5a2pni.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b78-01ca-7aa4-837c-f0bf250ad0a4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_gallery/1795488743192-ie3rh4uw78.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "signature": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a20b78-01c0-7d60-8ffc-694a9f4d9e07",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_signature/1795488743187-ak15y5eru5.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bd7d-7782-a266-2c77c9ed3a94",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_signature/1795487275236-fj5xse7c7w.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bd7e-7f47-bd1a-bcd9ce29aa1f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/index_signature/1795487275257-ue253hbilb.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "Traffic Info",
+                "images": [
+                  {
+                    "id": "01a20b61-be75-7ea4-ad75-51d2ad90eb67",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/directions_hero/1795487278953-dz1grvh1ok.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "notice": {
+                "title": "자가용 이용시",
+                "description": "※ 네비게이션에 아래 주소를 검색해주세요.\n지번 주소 : 인천 강화군 화도면 동막리 439-4\n도로명 주소 : 인천 강화군 화도면 해안남로1691번길 46-24\n강화 웨스턴비치 펜션 도착"
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "Hello, Western Beach",
+                "images": [
+                  {
+                    "id": "01a20b61-bd92-71f0-86e0-8cd96c321e9d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487275346-ktv0o82gi1.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bd8e-7d31-91b0-fff80c8bcb8c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487275404-bvvwvkp6tk.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bda0-71de-b28b-2da0c219f255",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487275492-35semwpfdc.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bda1-73c2-a304-d1847b3bb9c5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487275628-5ckqs9sq9m.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bda2-7bf8-b7ca-b1d267f3fb75",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487275656-98frukzzbo.webp",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bdab-72f8-b3ed-f8277ffea97c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487275845-e6jqvuugfc.webp",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bdb6-7d69-ad3a-c7182780f14e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487275989-8t4ljzkm7d.webp",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bdbb-7d22-9da0-1006ef693b76",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487276007-8cu8evbuty.webp",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bdc8-7649-82a6-303e3ed0ade4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487276064-y0g8vvqgsf.webp",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-bdc9-7f9a-8c2c-2000a6a34048",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_hero/1795487276253-96b3xaf35m.webp",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": [
+                {
+                  "title": "WESTERN BEACH\nABOUT INFO",
+                  "images": [
+                    {
+                      "id": "01a20b7c-1169-762a-bc52-f730c2c486f0",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795489009236-ble3t853az.webp",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910"
+                    },
+                    {
+                      "id": "01a20b61-bdc9-75ee-8dce-1381c2503429",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487276451-i5cotb7v55.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910"
+                    },
+                    {
+                      "id": "01a20b7c-3925-7131-9d67-93fe3cd59639",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795489019879-fuqjxt3u8d.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910"
+                    },
+                    {
+                      "id": "01a20b7c-10fe-701a-ae4d-e6f299ffd1dc",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795489009235-llhjtkh9fy.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910"
+                    },
+                    {
+                      "id": "01a20b7c-1044-74a8-af13-a45cd5449546",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795489009235-wvrwqybrl4.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910"
+                    },
+                    {
+                      "id": "01a20b7c-0fd9-70f3-9a43-631fc602dc80",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795489009239-b8hw4yqmlz.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910"
+                    },
+                    {
+                      "id": "01a20b61-bdf2-76c8-8271-8e73065b6747",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487277603-2a65midd8z.jpg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910"
+                    }
+                  ],
+                  "blockId": "6e7a55f5-ba9d-439b-aa64-246c3821c910",
+                  "description": "강화 웨스턴비치 펜션에 오신 것을 환영합니다.\n강화 웨스턴비치 펜션 펜션은 천연 목조주택 프리미엄 웰빙 펜션입니다.\n\n바다와 바로 접한  강화 웨스턴비치 펜션 뒷편은\n마니산이 한 폭의 동양화처럼 우뚝 서있어 방문해 주신 고객님들에게\n만족스러운 휴식과 더불어 재충전의 기회를 제공합니다.\n\n방문해 주시는 분들 모두에게\n깨끗한 객실과 정성으로 편안하고 안락한 쉼터가 되도록\n최선을 다하겠습니다."
+                },
+                {
+                  "title": "Landscape",
+                  "images": [
+                    {
+                      "id": "01a20b61-be0b-764f-921a-7f838b69d3e6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487277794-cjfmlfll13.webp",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be08-7d60-8472-f2ec235fa28b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278006-jflww201kc.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be1b-7767-9bc9-ec6b15ad15a0",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278046-0ls0g345lt.jpg",
+                      "sortOrder": 9,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be23-7432-a94d-81a44dba35ee",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487276458-z1y5d5io61.jpg",
+                      "sortOrder": 10,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be1b-7ef8-a1b9-8bec101272a7",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278070-s532ig96l2.jpg",
+                      "sortOrder": 11,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be1b-7e01-bd7d-47960ab3478b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278065-dxp1whpjyy.webp",
+                      "sortOrder": 12,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be31-777c-8e1e-22e04dba73aa",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278338-adrjgevqc6.webp",
+                      "sortOrder": 13,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be34-7bce-b5f2-6cda0fcc16b1",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278362-6z6e9h3vq3.webp",
+                      "sortOrder": 14,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be44-7104-a1f6-2d54463225a7",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278405-2ayv6uc7qk.webp",
+                      "sortOrder": 15,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be43-7f08-814f-21c727200179",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278571-cd85hp46hj.webp",
+                      "sortOrder": 16,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be43-77e0-8e95-b5b0e8d39b06",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487278338-adrjgevqc6.webp",
+                      "sortOrder": 17,
+                      "description": "img_box",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    },
+                    {
+                      "id": "01a20b61-be4c-78ee-9245-751c3dd7ea4b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/main_about/1795487276458-z1y5d5io61.jpg",
+                      "sortOrder": 18,
+                      "description": "img_box",
+                      "isSelected": true,
+                      "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6"
+                    }
+                  ],
+                  "blockId": "172cdb0e-f0e5-400d-91ad-0c4ecd8768d6",
+                  "description": "펜션 너머로 보이는 바다와 일몰이 아름다운\n강화 웨스턴비치 펜션에서 행복한 여행 되시기를 바랍니다."
+                }
+              ]
+            }
+          ]
+        },
+        "room": [
+          {
+            "id": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "222c4ece-59b4-4e62-af75-c7b70a72c6e4",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/1.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 0,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "5a05fd87-d189-43fa-9603-ef4ccc4e43b7",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/2.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 1,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "00e28f6d-68ea-41bf-95a0-57f6818365bd",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/3.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 2,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "32806705-f679-4bb0-b394-221b10978a92",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/4.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 3,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "fc6cdf17-355e-4e33-8b64-f82cb46f726f",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/5.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 4,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "6fbfbf66-c687-4bd6-b753-163e1b780e79",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/6.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 5,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "c23b0f3c-8f88-4af1-a961-ef20249f4b34",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/7.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 6,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "584ba499-00d8-4ac9-a6d3-6853067b971f",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/8.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 7,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "3a991c04-59a1-4190-9a84-9f6267827931",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/9.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 8,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "d4e61de9-b444-45fa-950d-17847d8989e8",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/10.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 9,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "085826f4-fd5a-425c-8f4f-297e247c6580",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/11.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 10,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "65aabab4-b604-4c26-b316-517d9f7fcfb7",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/12.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 11,
+                      "isSelected": true,
+                      "description": ""
+                    }
+                  ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "c3095205-973d-4cf4-8765-3061d519471e",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/1.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 0,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "48f7a4e1-4856-4473-84d6-9047b7465bfb",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/2.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 1,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "11ff860e-8ba8-4402-a3a2-42dfff58d6be",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/3.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 2,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "d3ab4f17-3f65-4ad1-bf33-ac5268556010",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/4.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 3,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "d9edf6c3-95ae-4918-bcff-cc337d99f87c",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/5.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 4,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "538510ba-13b1-42f4-b5bd-94c00fa0cfe5",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/6.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 5,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "c68f50a0-3c76-4b06-82bb-933ecf5809b3",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/7.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 6,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "be72223e-83cd-4bf4-bbe4-b31f9ecb0dc2",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/8.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 7,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "0a9fc0e6-3a64-45b4-8ac2-79c3aefdad86",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/9.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 8,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "a8661c47-1d0b-4087-a7f8-ba197c2dc149",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/10.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 9,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "f1c9962c-a5f9-402a-8e88-eae0a7fa3bc7",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/11.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 10,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "91c60b8d-ae53-484c-b6af-69d25d3e2d44",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/12.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 11,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "e41580d2-de5a-4fa1-9c9b-e9dc5b09ea7d",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/8.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 12,
+                      "isSelected": true,
+                      "description": "img_box"
+                    },
+                    {
+                      "id": "2032a5a4-2840-45a4-845f-48ed1934db01",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22890/11.webp",
+                      "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+                      "sortOrder": 13,
+                      "isSelected": true,
+                      "description": "img_box"
+                    }
+                  ],
+                  "description": "달콤한 휴식을 선물해드리는\n강화 웨스턴비치 펜션 입니다."
+                }
+              }
+            ]
+          },
+          {
+            "id": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "4ef4cf88-70a1-443a-9e60-1ecf0f250db0",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/1.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 0,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "5bd55d37-1e31-4ea5-a7df-55b7db93b593",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/2.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 1,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "20c9cad8-d3a9-42f2-a698-21eb56823e9a",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/3.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 2,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "7b169a80-170c-476a-9552-c1eebd903152",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/4.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 3,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "a33511d0-2343-4692-a5b6-69da5016b1e4",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/5.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 4,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "5b0a7d3a-da63-4f3e-8d34-1ebf1a07978f",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/6.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 5,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "baea104a-94ae-4d1a-b322-002dedad6912",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/7.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 6,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "39157d0d-7ac9-411c-a9ed-624fdeedd6d9",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/8.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 7,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "d3b537ad-022d-43ec-936f-764fcd041662",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/9.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 8,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "b885a301-414e-4561-91e7-276b5c2d6e6b",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/10.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 9,
+                      "isSelected": true,
+                      "description": ""
+                    }
+                  ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "a3486b98-7aac-45fc-b572-73fc581da6aa",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/1.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 0,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "ea9fa20c-2318-4bd4-a3c9-c6d30c0afded",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/2.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 1,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "c92b9f17-4290-422c-83df-4dbd3dbe5643",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/3.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 2,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "ad174aa4-17e0-4ad5-8ed0-a35e9a74e402",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/4.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 3,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "35c9794a-f592-49b6-8ac5-0afceeaeb48b",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/5.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 4,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "0ddc539e-583f-40ce-afdd-612c14ac03bc",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/6.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 5,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "0ccaec71-efa3-4cbc-81ad-197382310dc9",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/7.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 6,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "966d7413-c90c-4ff7-a779-c541fb23564c",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/8.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 7,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "9fecc30e-cbf6-4d4d-b28c-2624686c0cdd",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/9.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 8,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "a382a1c8-072c-497d-a5e6-e4513e498285",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/10.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 9,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "53e17577-c528-46bb-a4f7-f89502de9805",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/1.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 10,
+                      "isSelected": true,
+                      "description": "img_box"
+                    },
+                    {
+                      "id": "8658f974-0008-4acc-bb75-83609ef99d0a",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22891/6.webp",
+                      "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+                      "sortOrder": 11,
+                      "isSelected": true,
+                      "description": "img_box"
+                    }
+                  ],
+                  "description": "달콤한 휴식을 선물해드리는\n강화 웨스턴비치 펜션 입니다."
+                }
+              }
+            ]
+          },
+          {
+            "id": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "9dba6e89-b462-4ec6-a055-afa6580ff0c6",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/1.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 0,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "83e0c34c-faf2-4f03-aef9-eab0f48cfad5",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/2.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 1,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "438f3e7e-ea03-4769-a31f-9ed21521c91e",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/3.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 2,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "1817a8b6-0a91-4690-98fd-bd7033b8caa0",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/4.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 3,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "9bc7ecb7-ef57-4719-ab3c-24e11fc8f510",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/5.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 4,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "b1b1b43b-487d-418e-9c0c-41058b3e9d69",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/6.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 5,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "03d2f53e-3927-4602-96f4-6afe27b6fc8c",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/7.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 6,
+                      "isSelected": true,
+                      "description": ""
+                    }
+                  ],
+                  "description": ""
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "12ca5cbe-348d-4ea0-8718-760e75824254",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/1.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 0,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "d8174905-744d-4f9d-8289-6747597a5396",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/2.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 1,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "a6cc21ae-45d2-4735-8477-ab061bb6b37d",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/3.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 2,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "4c85b08e-816f-4b52-bd09-73a916d7e9de",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/4.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 3,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "8065f092-4d62-4b9e-a8e5-690dcd3700c9",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/5.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 4,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "ec0b40e7-9dbf-4847-9d18-fb99bd3b06ff",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/6.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 5,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "cfc50da0-ef05-433d-bfd6-67c7ce85a8df",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/7.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 6,
+                      "isSelected": true,
+                      "description": ""
+                    },
+                    {
+                      "id": "d910a6ad-3350-44a4-b9ba-d088481851f5",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/2.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 7,
+                      "isSelected": true,
+                      "description": "img_box"
+                    },
+                    {
+                      "id": "2fc8e845-f8ac-4417-824d-a675acccb2f5",
+                      "url": "https://westernbeach.co.kr/assets/images/room/22892/4.webp",
+                      "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+                      "sortOrder": 8,
+                      "isSelected": true,
+                      "description": "img_box"
+                    }
+                  ],
+                  "description": "달콤한 휴식을 선물해드리는\n강화 웨스턴비치 펜션 입니다."
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a20b78-f807-71b1-8f98-410fa11067f5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/reservation_hero/1795488806558-7fkgf153qq.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a20b79-87c6-7bde-a55c-44121d5ac29d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/reservation_about/1795488843469-esbgmo7yao.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b79-87b2-790b-a8fb-ca4c509cca0e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/reservation_about/1795488843463-5dwtuy7jh6.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a20b61-be75-7b0a-ba7c-b40da10ea0e4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_hero/1795487279160-xqir61w3li.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-be79-7e46-a5e4-1e2cdaf27704",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_hero/1795487279164-9rb4kau0ab.webp",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a20b61-be86-785a-998c-36028b72aa62",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_hero/1795487279321-ldxkg24efx.webp",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": [
+                {
+                  "title": "마니산",
+                  "images": [
+                    {
+                      "id": "01a20b61-be92-7e89-a194-f71f45bf5835",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279348-p5wx09naj6.webp",
+                      "sortOrder": 0,
+                      "description": "펜션에서 약 2.7km, 차량 약 5분 거리",
+                      "isSelected": true,
+                      "blockId": "ad69ac32-8b39-4553-8a37-9590ea1a1809"
+                    }
+                  ],
+                  "blockId": "ad69ac32-8b39-4553-8a37-9590ea1a1809",
+                  "description": "강화도 남서단에 위치하고 한반도의 중앙에 자리잡고 있어 마니산을 중심으로 한라산과 백두산까지의 거리가 같다. 마니산이 단군이 제천할 정도의 명산으로 용이 승천하고 용마가 나왔으며, 신선이 사는 곳으로 72대 왕후장상이 나올 곳이라 한다. 마니산 정상에는 단군성조께서 하늘에 제천의식을 봉행하신 참성단이 있으며 ‘88 세계 장애자 올림픽을 비롯 매년 전국체전시 성화를 채화 봉송하고 있는 민족의 영산이다. 등산로를 따라 918개의 돌계단을 올라가노라면 서해바다 풍경이 한눈에 들어와 아름다운 경치를 만끽할 수 있으며, 동쪽 기슭으로 신라 선덕여왕때 지은 정수사 법당 살문짝 꽃무늬의 아름다움도 즐길 수 있다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "동막해변",
+                  "images": [
+                    {
+                      "id": "01a20b61-be92-795f-9379-16da3c2de2ea",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279376-m7aw69grlf.webp",
+                      "sortOrder": 1,
+                      "description": "펜션에서 약 2.8km, 차량 약 4분 거리",
+                      "isSelected": true,
+                      "blockId": "df5098c1-ff99-4848-904c-eeaa13d95047"
+                    }
+                  ],
+                  "blockId": "df5098c1-ff99-4848-904c-eeaa13d95047",
+                  "description": "동막해변은 백사장과 울창한 소나무 숲으로 둘러쌓여 천혜의 자연경관을 자랑하고 있으며, 밀물 시에는 해수욕을 즐길 수 있고, 썰물 시에는 갯벌에 사는 여러가지 생물들을 관찰할 수 있다. 물이 빠지면 끝없이 펼쳐진 갯벌이 드러나면서 조개, 칠게, 고둥, 가무락 등 다양한 바다 생물들을 관찰할 수 있어 가족단위의 여름휴양지로 널리 알려져 있으며, 인근에는 분오리 돈대, 함허동천 시범야영장 및 정수사 등의 볼거리와 즐길거리가 있다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "강화갯벌센터",
+                  "images": [
+                    {
+                      "id": "01a20b61-be9c-794e-a2f4-85d09e34b0df",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279400-pn2r9dzlqr.webp",
+                      "sortOrder": 2,
+                      "description": "펜션에서 약 8.8km, 차량 약 13분 거리",
+                      "isSelected": true,
+                      "blockId": "19179de9-7f30-4a31-8922-0f8febb2c759"
+                    }
+                  ],
+                  "blockId": "19179de9-7f30-4a31-8922-0f8febb2c759",
+                  "description": "강화갯벌의 전체면적은 약 105km에 달하며, 특히 여차리-동막리-동검리를 잇는 서남부지역의 갯벌은 육지로부터 최대 6km, 면적은 약 90km로 강화갯벌 면적의 약 86%를 차지한다. 강화도는 한강, 예성강, 임진강의 담수 영향을 받는 담수와 해수의 이동통로가 된다. 그래서 썰물 때 강으로부터 운반된 물질이 먼 바다까지 퇴적되고, 밀물 때에는 조류성 운반물질이 섬 주위에 퇴적된다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "옥토끼우주센터",
+                  "images": [
+                    {
+                      "id": "01a20b61-be9e-751c-b029-1b2ee4e7b94d",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279415-2frxi9qmx5.webp",
+                      "sortOrder": 3,
+                      "description": "펜션에서 약 18.3km, 차량 약 27분 거리",
+                      "isSelected": true,
+                      "blockId": "a3d9a22f-05f7-4d62-9a8f-f9e577087b4c"
+                    }
+                  ],
+                  "blockId": "a3d9a22f-05f7-4d62-9a8f-f9e577087b4c",
+                  "description": "옥토끼우주센터는 국내 최초의 항공우주과학 테마파크이다. 항공우주 관련 자료를 수집, 보존하여 어린이 및 일반 대중들의 항공우주과학에 대한 이해를 돕기 위한 전시 및 교육을 실시하고 있다. 특히 어린이들의 체험교육에 중점을 두어 항공우주 관련 체험기구와 체험교육 프로그램을 개발, 운영하고 있다. 또한 과학, 예술, 탐험, 놀이가 결합된 복합문화공간으로 사계절 내내 방문할 수 있는 곳이며, 남녀노소 함께 시간을 보내며 행복을 나눌 수 있는 행복체험공간이다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "보문사",
+                  "images": [
+                    {
+                      "id": "01a20b61-bea2-7b4b-9976-408247b3d0b9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279475-el8vnb594h.webp",
+                      "sortOrder": 4,
+                      "description": "펜션에서 약 34km, 차량 약 45분 거리",
+                      "isSelected": true,
+                      "blockId": "c4863463-b058-40f5-8ab2-e661356c0566"
+                    }
+                  ],
+                  "blockId": "c4863463-b058-40f5-8ab2-e661356c0566",
+                  "description": "강화군 서부에 위치한 석모도에는 해명산, 상봉산, 상주산의 세개의 산이 있어 삼산면이란 지명이 생겼으며, 보문사는 상봉산과 해명산 사이에 위치하는데, 특히, 절이 자리한 곳을 낙가산이라 부른다. 곧 관음보살이 상주한다는 보타낙가산의 준말이다. 우리나라 대부분의 사찰이 그러하듯이, 창건연도나 창건에 얽힌 연기 설화등이 분명하게 드러나 있지 못한 상태이나 근대의 고승인 석전 박한영 스님이 작성한 \"보문사법당 중건기\"에 작성한 글을 토대로 하면 신라 선덕여왕 4년(635년) 화정대사가 창건하였다한다.새벽 동틀 무렵에 듣는 절 앞바다의 파도 소리와 눈썹바위의 마애관음보살상은 예로부터 내려오는 강화 8경에 드는 명승지로 꼽혔다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "석모도",
+                  "images": [
+                    {
+                      "id": "01a20b61-beac-79c0-9372-ef882969270f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279653-wbnec74fia.webp",
+                      "sortOrder": 5,
+                      "description": "펜션에서 약 30km, 차량 약 40분 거리",
+                      "isSelected": true,
+                      "blockId": "9ee0f10d-a0d2-4349-8223-08de9f190b98"
+                    }
+                  ],
+                  "blockId": "9ee0f10d-a0d2-4349-8223-08de9f190b98",
+                  "description": "인근에는 우리나라 온천중에서 가장 높은 온도와 특이한 성분을 함유한 해수 온천으로 칼슘, 칼륨, 마그네슘등의 풍부하게 함유되어 있으며, 석양을 바라보며 온천을 즐길 수 있는 석모도 미네랄 온천체험을 할 수 있다. 족욕은 무료다. 신라 선덕여왕 4년(635년) 창건한 석도모 보문사는 양양낙산사, 금산 보리암과 더불어 우리나라 3대 기도사찰의 하나로 보문사 석실, 보문사 맷돌, 와불전및오백나한상 등 오랜 고찰의 모습을 간직하고 있으며 특히 마애관음보살상에서 바라보는 서해낙조는 장관을 이룬다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "강화 리조트(루지)",
+                  "images": [
+                    {
+                      "id": "01a20b61-bebd-7d8d-ba2f-11685be091e1",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279702-f0athqpn5f.webp",
+                      "sortOrder": 6,
+                      "description": "펜션에서 약 11.6km, 차량 약 18분 거리",
+                      "isSelected": true,
+                      "blockId": "6c290851-80cc-40c5-b5cf-1c5caa47a85a"
+                    }
+                  ],
+                  "blockId": "6c290851-80cc-40c5-b5cf-1c5caa47a85a",
+                  "description": "수도권 서부 지역의 유일한 루지, 곤돌라, Food Court, 테마 산책로 등을 갖춘 기쁨과 행복과 사랑을 전하는 강화씨사이드리조트!복잡한 도심에서 멀지 않은 곳, 산과 바다를 만나 그윽한 자연의 정취를 느낄 수 있는 그 곳! 짙은 숲내음을 맡으며 곤돌라를 타고 정상에 올라서면 전망대에서는 낙조가 아름다운 강화도 해변의 정취를 느낄 수 있다. 동양 최대 길이의 \"루지\"는 1.8km 트랙을 통해 다이나믹하게 내려올수 있으며 온가족이 함께 즐길수 있도록 흥미로운 테마로 꾸며져 있다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "전등사",
+                  "images": [
+                    {
+                      "id": "01a20b61-bebc-7528-8cc7-5f43349e280e",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279718-e7rco6yvtv.webp",
+                      "sortOrder": 7,
+                      "description": "펜션에서 약 10.9km, 차량 약 17분 거리",
+                      "isSelected": true,
+                      "blockId": "efc2dccc-f966-416c-9a6f-acd7d04f76d3"
+                    }
+                  ],
+                  "blockId": "efc2dccc-f966-416c-9a6f-acd7d04f76d3",
+                  "description": "단군 왕검의 세 왕자가 쌓았다는 정족산 삼랑성(사적130호)내에 위치한 전등사는 창건연대는 확실치 않으나 고려 왕실의 원찰로서 진종사(眞宗寺)라 불리워 왔다. 지금의 전등사란 명칭은 고려 충렬왕 8년(1282)에 왕비 정화궁주가 옥등잔을 부처님께 바친 데서 생겨났다고 전해진다.보물 178호인 대웅보전은 정면3칸, 측면2칸의 팔작집으로 광해군 13년(1621)에 지어진 조선 중기 건축물로서는 으뜸이며 특히 내부의 불단위에 꾸며진 닫집의 화려정치(華麗精緻)한 아름다움은 건축공예의 극치를 이루고 있다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "평화전망대",
+                  "images": [
+                    {
+                      "id": "01a20b61-bec7-78bc-8e95-57c5517e7e79",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279736-ivzjty9oai.webp",
+                      "sortOrder": 8,
+                      "description": "펜션에서 약 39km, 차량 약 45분 거리",
+                      "isSelected": true,
+                      "blockId": "7c3f69a5-778c-4c24-bce6-2eaef289cfda"
+                    }
+                  ],
+                  "blockId": "7c3f69a5-778c-4c24-bce6-2eaef289cfda",
+                  "description": "강화평화전망대는 2006년 말부터 일반인의 출입이 엄격히 통제되었던 양사면 철산리 민통선 북방지역 임야에 지하1층 지상4층 규모로 타 지역에선 전망하기 힘든 이북의 독특한 문화 생태를 아주 가까이에서 느낄 수 있고 비교할 수 있도록 준공되어 2008년 9월 5일 개관하였다.지하층과 4층은 군부대 전용시설이며, 1층에는 강화특산품과 북한의 특산물 등을 판매하는 토산품 판매장과 식당, 관리사무실, 통일염원소,휴게실 등이, 2층에는 고성능 망원경과 전쟁의 참상과 흔적을 볼 수 있는 전시실 이, 3층에는 이북의 온 산하가 한눈에 가까이 볼 수 있는 북한땅 전망시설과 흐린 날씨에도 영상을 통해 북한 전경 등을 볼 수 있도록 스크린 시설이 되어 있다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "강화 자연사박물관",
+                  "images": [
+                    {
+                      "id": "01a20b61-becc-7f78-9910-0cfd9ca68147",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279769-wpc2qm30tu.webp",
+                      "sortOrder": 9,
+                      "description": "펜션에서 약 35km, 차량 약 40분 거리",
+                      "isSelected": true,
+                      "blockId": "8005c86a-66ea-4651-965a-e90c241aa951"
+                    }
+                  ],
+                  "blockId": "8005c86a-66ea-4651-965a-e90c241aa951",
+                  "description": "산업화‧도시화로 오염되어가는 환경에 대한 소중함을 일깨우고 자연과 생명에 대한 올바른 인식을 세우는데 도움이 되고자 2015년 개관한 강화자연사박물관에서는 우리가 사는 지구가 속한 태양계의 탄생에서 지구를 구성하고 있는 다양한 광물, 생물들을 각각의 특별한 주제로 나누어 전시하고 있으며, 영상‧디오라마 등 최신 전시기법을 활용하여 자연생태계를 직접 보고 관찰할 수 있다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                },
+                {
+                  "title": "강화 역사박물관",
+                  "images": [
+                    {
+                      "id": "01a20b61-becb-7c68-be25-87ae315c4920",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/nearby_attractions_about/1795487279895-48c49xu78h.webp",
+                      "sortOrder": 10,
+                      "description": "펜션에서 약 20.6km, 차량 약 33분 거리",
+                      "isSelected": true,
+                      "blockId": "47d1de5b-71e4-4d80-b66a-9b53db272c09"
+                    }
+                  ],
+                  "blockId": "47d1de5b-71e4-4d80-b66a-9b53db272c09",
+                  "description": "강화역사박물관은 강화의 문화유산을 보존·연구하여 전시할 목적으로 세워진 공립박물관이다. 갑곶돈대 옆에 위치해 있다가 이전하여 2010년 개관하였다. 상설전시실에는 강화의 선사시대 유적지와 고려왕릉에서 출토 된 유물과 향교, 전통사찰 소장품 등의 문화재가 전시되어 있으며, 기획전시실에서는 해마다 다채로운 주제의 특별전이 열리고 있다. 그리고 강화 역사의 이해를 돕기 위해 영상실과 교육프로그램을 함께 운영하고 있어 복합문화공간으로서 역할을 하고 있다.\n(자료출처 : 대한민국 구석구석 - korean.visitkorea.or.kr)"
+                }
+              ],
+              "enabled": true
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a20b7e-f17a-7644-a917-7eed4323d89b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/layout_map_hero/1795489197938-n87sddd7oz.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "01a20b61-bee6-7015-b555-7b0e5f591bff",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/layout_map_about/1795487279976-cd3fyoxjjo.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": ""
+              },
+              "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [ ]
+        }
+      },
+      "popup": {
+        "popups": [
+          {
+            "id": "c48f4173-4525-46d2-a4fa-666ee5cdf4e1",
+            "link": "https://youtu.be/tLf82315_K0",
+            "title": "",
+            "images": [
+              {
+                "id": "01a20b61-bee6-7e7d-b822-57d4985a169c",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/popup/1795487280072-u7qccp3mw3.webp",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "c48f4173-4525-46d2-a4fa-666ee5cdf4e1"
+              }
+            ],
+            "slider": false,
+            "videos": [ ],
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
+      },
+      "theme": {
+        "font": {
+          "koMain": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.cdnfonts.com/css/diphylleia",
+            "key": "diphylleia",
+            "woff2": null,
+            "family": "Diphylleia"
+          }
+        },
+        "color": null
+      },
+      "property": {
+        "name": "강화 웨스턴비치 펜션",
+        "images": [
+          {
+            "id": "01a20b61-bef2-70d7-abdd-33a8f3fcf23e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280101-z8eyeqq7hf.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a20b61-bef6-7745-b8ef-65eb3b19d83b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280372-6ktnlsti58.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a20b61-bef6-780b-9877-2285fdd4399c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280457-sy2r3iiesh.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a20b61-bf00-7cd1-af56-8e38ab584e63",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280594-xevb21amrk.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a20b61-bf12-75f4-8a8f-9b8417a94a11",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280617-wr40uu7f0q.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a20b61-bf11-7d3d-bb04-3a9d858b5fce",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280715-zqfhmme52y.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a20b61-bf1a-7c1c-8281-e3dafa182093",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280797-7ipq7sry1z.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a20b61-bf1d-7a34-97ac-a368ff4afb2d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/property_exterior/1795487280836-3gd3n1ipvy.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
+        "nameEn": "Western Beach"
+      },
+      "roomtypes": [
+        {
+          "id": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+          "name": "해돋이(오션뷰)",
+          "images": [
+            {
+              "id": "01a20b7e-f08c-76f7-8c1d-57edb9687261",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_thumbnail/1795489197910-v3ram5a63x.jpg",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a20b7e-f0af-778e-b8c5-bcd3e8c0942a",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197913-qasns09t3u.jpg",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f0e0-72ca-a794-95d15c8f5204",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197917-puorlyj7y9.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f162-7e92-8804-e8f9d84bee73",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197912-ebvb7x6n4d.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f16b-7f42-a01e-88b2d3d2b537",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197922-qentdjb4ez.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f0a1-7fea-837f-95c71e9a2565",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197923-9r6aownjim.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f15c-7d06-9380-a02b6f0c16f4",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197918-como6cziqo.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f168-7df6-97b2-96f4d9e21e27",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197920-vvtddrc4st.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f165-7b3c-b21f-0c0abdbc9f50",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197930-ffhnk8pxfe.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f107-7c06-ad5c-cbd06fcdae84",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197927-93p9akwda5.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f13b-7898-8a67-e227e9ae268c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_exterior/1795489197933-phpq6ro6mz.jpg",
+              "sortOrder": 0,
+              "description": "",
+              "isSelected": true,
+              "blockId": "952dab71-e222-498b-8d93-1a852c2cc4bc",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": ""
+        },
+        {
+          "id": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+          "name": "노을(오션뷰)",
+          "images": [
+            {
+              "id": "01a20b7e-f199-7aab-b17f-720c68b1ab03",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_thumbnail/1795489197910-97i0tk32q9.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a20b7e-f15b-7537-a8e2-4a367aab19ed",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197928-freqtop7d0.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f1f1-779e-b18f-664171eda5ab",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197933-ag8xqw16fp.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f174-7359-9bc0-ffe554c6f9f4",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197930-62c496lx8u.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f178-7bd9-a0e0-a9dcbc2e8511",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197932-n8vhp2fqcy.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f16d-7217-82b2-245c9100d9e3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197930-jsmjd8dk78.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f187-78c8-bb86-a444d39af114",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197934-gxqtn1a7r9.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f16c-7736-91b5-22609a581ac0",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197933-wznz43a9gl.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b61-bfd0-743c-8dec-ebb07216b86a",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_exterior/1795487283164-f6ra8a8s8z.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "61ff5d4c-2bfb-4e68-bffa-9307f93c4459",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": ""
+        },
+        {
+          "id": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+          "name": "바다",
+          "images": [
+            {
+              "id": "01a20b7e-f1dc-7945-b060-6b015c6c1fdd",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_thumbnail/1795489197909-vyjgvp7zvx.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a20b7e-f1dc-7af4-9531-79b8e18d18f7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197934-1hw08chy83.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f17f-76e9-83e3-7d1f4fd258e9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197937-sgdgf3wqht.jpg",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f175-7c1b-baef-5ea6424118d5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197933-aawxwowhyg.jpg",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f167-74ce-8c8c-170bfd27f95c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197938-5jdkrxyess.jpg",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f170-784d-a476-660f75305d36",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197936-w3ecddhqvk.jpg",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b7e-f179-7ed4-8fac-14d09d24936f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_interior/1795489197939-pr61nyznkn.jpg",
+              "sortOrder": 21,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a20b61-c00e-7243-a079-fd05a5bb2081",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a20b61-8e5f-79bb-8223-be28d6eff52d/roomtype_exterior/1795487283971-c4w7qanr6d.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "1fd80aae-788a-4b42-ba0b-80b36665259c",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "nameEn": "",
+          "groupName": ""
+        }
+      ],
+      "footer": {
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
+      }
+    }
+  }
+}
